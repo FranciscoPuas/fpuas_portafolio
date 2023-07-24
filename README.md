@@ -1,2 +1,0 @@
-# fpuas_portafolio
-portafolio
